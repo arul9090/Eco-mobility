@@ -1,0 +1,7 @@
+{
+  "name": "EcoRoute AI",
+  "description": "A sustainable mobility planner that tracks your green impact, suggests eco-friendly routes, and rewards your carbon-saving efforts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
